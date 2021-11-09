@@ -19,8 +19,10 @@ response:
 
 Task:
 Сделать правила:
+
  ☑ Подменить url в чтобы в запросе поменялся name которые вы вписали в Postman.
  ☑ Подменить url в чтобы в запросе поменялся age которые вы вписали в Postman. 
+ 
 ![1](https://user-images.githubusercontent.com/88891623/140916974-a0b9bd5d-907e-422b-b354-15b90885fc85.PNG)
 ____
 
